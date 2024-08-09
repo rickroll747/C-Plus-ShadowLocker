@@ -1,10 +1,4 @@
 # C+ShadowLocker
 RANSOMWARE IN C++ WITH NO DECRYPTION KEY.
 
-
-
-
-
-
-
-WARNING: ONLY USE THIS ON A VM.
+# Caution: Only Use This On A VM Cuz It Doesnt Have A Decryption Key An You Wont Be Able To Access C:\Users\ Anymore.
